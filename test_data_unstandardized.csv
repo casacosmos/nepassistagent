@@ -1,0 +1,5 @@
+Business,Contact Person,Gallons,Tank Size,Secondary Containment,Containment Size,Fuel Type,Notes,Lat,Long,Storage Type
+"ABC Company",John Doe,5000,"10x8x6",Yes,"12x10x3",Diesel,Regular inspection required,18.234,-66.123,Above Ground
+"XYZ Corp",Jane Smith,10000,"15x10x8",No,N/A,Propane,New installation,18.245,-66.134,Underground
+"City Facility",Bob Wilson,20000,"20x15x10",Yes,"25x20x4",Neither,Water storage tank,18.256,-66.145,Above Ground
+"Marine Depot",Alice Brown,15000,"18x12x9",Yes,"22x16x4",Diesel,Near waterfront,18.267,-66.156,Above Ground

@@ -1,0 +1,11 @@
+{
+  "tanks": [
+    {
+      "name": "Marine Depot",
+      "volume": 15000.0,
+      "type": "diesel",
+      "has_dike": false,
+      "dike_dims": null
+    }
+  ]
+}

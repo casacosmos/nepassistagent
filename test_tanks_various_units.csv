@@ -1,0 +1,6 @@
+Site,Contact,Capacity,Tank Size,Has Containment,Dike Size,Fuel,Notes,Latitude,Longitude
+"ABC Gas Station","John Smith","10,000 gallons","12x8x10","Yes","15x12x3 ft","Diesel","Regular inspection",18.234,-66.123
+"XYZ Industrial","Jane Doe","500 bbl","8x6x8","Yes","180 sq ft","Propane","Large facility",18.245,-66.134
+"City Water Plant","Bob Johnson","75700 liters","20x10x12","Yes","25 ft x 15 ft","Water","Non-fuel tank",18.256,-66.145
+"Marine Depot","Alice Brown","15000 gal","15x10x10","No","","Diesel","Waterfront location",18.267,-66.156
+"Small Generator","Tom Wilson","200","4x3x4","Yes","4x4","Gasoline","Emergency backup",18.278,-66.167

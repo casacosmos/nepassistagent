@@ -1,0 +1,9 @@
+Business Name,Contact Person,Volume,Tank Dimensions,Secondary Containment,Containment Size,Fuel Type,Comments,Y Coord,X Coord
+"Puerto Rico Gas Co.","Carlos Rodriguez","25,000 gallons","20x15x12","Yes","30x25 ft","Propane","Main storage facility",18.4671,-66.1185
+"San Juan Diesel Depot","Maria Santos","500 bbl","15x12x10","Yes","400 sq ft","Diesel","Port facility",18.4655,-66.1056
+"Hospital Generator Backup","Dr. Juan Perez","5000","8x6x8","No","","Diesel","Emergency power",18.4458,-66.0820
+"Marina Fuel Station","Ana Lopez","12000 gal","12x10x10","Yes","15 ft x 12 ft x 3 ft","Gasoline","Boat fuel",18.4488,-66.0662
+"Industrial Plant A","Roberto Diaz","75000 liters","25x20x15","Yes","500","Diesel","24/7 operation",18.4394,-66.0595
+"Small Business Generator","Luis Martinez","300 gallons","4x4x4","Yes","6x6","Diesel","Backup only",18.4234,-66.0456
+"","","","","","","","",18.4123,-66.0345
+"LPG Distribution Center","Carmen Ortiz","50 m3","30x25x20","Yes","1000 square feet","LPG","Regional distribution",18.4012,-66.0234
